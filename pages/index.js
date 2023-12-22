@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eu amo voce, se voce vc me ama, me chama no direct</h1>
+    return <h1>Te amo muito mamãe, independente de tudo, voce ja foi um dos maiores exemplos na minha vida, e voce sempre sera a mulher na minha vida, sou um filho muito feliz pela mae que Deus me deu</h1>
 }
 
 export default Home;
